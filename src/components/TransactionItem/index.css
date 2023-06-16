@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.transactionItemContainer {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #7e858e;
+  border-top: none;
+}
+
+.button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.deleteIcon {
+  height: 20px;
+}
